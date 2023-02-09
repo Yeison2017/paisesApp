@@ -1,27 +1,20 @@
-# PaisesApp
+# Búsqueda de Países
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+Este proyecto es una página web creada con Angular que permite buscar datos relevantes sobre países, regiones y capitales. Utiliza la API https://restcountries.com/ para obtener los datos y Bootstrap 5 para los estilos.
 
-## Development server
+## Tecnologías principales
+- ![icono de Angular](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675897057/Iconos/Angular_ixnav0.png) Angular  
+- ![icono de Angular](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/Bootstrap_dxlorq.png) Bootstrap 5  
+- API https://restcountries.com/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Capturas de pantalla
+Se pueden ver las capturas de pantalla en dispositivos desktop.
+![desktop1](./src/assets/screenshots/Desktop1.jpg)
+![desktop2](./src/assets/screenshots/Desktop2.jpg)
+![desktop3](./src/assets/screenshots/Desktop3.jpg)
+![desktop4](./src/assets/screenshots/Desktop4.jpg)
+## Créditos
+Este proyecto fue creado a partir del curso de Udemy "Angular: De cero a experto" dictado por Fernando Herrera. Puedes encontrar el curso en el siguiente enlace: https://www.udemy.com/course/angular-fernando-herrera/.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Enlace
+Puedes ver la página web aquí: https://paises-angular-yha.netlify.app/
